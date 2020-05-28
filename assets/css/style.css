@@ -78,6 +78,7 @@ footer a {
     background-size: cover;
     background-position: center;
     position: relative;
+    margin-bottom: 50px;
 }
 /* End hero style */
 
@@ -126,7 +127,7 @@ footer a {
     font-size: 55px;
     color: #024e76;
     margin-bottom: 35px;
-    padding: 0 100px 20px 100px;
+    padding: 20px 100px 20px 100px;
     border-bottom: 3px solid;
     display: inline-block;
 }
@@ -142,6 +143,7 @@ footer a {
     width: 80%;
     font-size: 20px;
     margin: 0 auto;
+    margin-bottom: 80px;
 }
 .steps {
     text-align: center;
