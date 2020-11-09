@@ -33,7 +33,7 @@
 
   ![Project Screenshot](/assets/images/screenshot.png)
   ![Project Screenshot](/assets/images/screenshot2.png)
-  ![Project Screenshot](/assests/images/screenshot3.png)
+  ![Project Screenshot](/assets/images/screenshot3.png)
 
   ## Questions?
 
