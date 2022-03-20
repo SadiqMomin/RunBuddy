@@ -19,15 +19,15 @@
 
   ## Installation
 
-  To run this on your own computer you can copy the repo at https://github.com/cullinans1/run-buddy. Open the HTML file in default browser to see the webpage.
+  To run this on your own computer you can copy the repo at https://github.com/SadiqMomin/RunBuddy.git  Open the HTML file in default browser to see the webpage.
 
   ## Usage 
 
-  To use simply visit the live application at: https://cullinans1.github.io/run-buddy/
+  To use simply visit the live application at: https://sadiqmomin.github.io/RunBuddy/  
 
   ## Contribution
 
-  Made by Sammy Cullinan
+  Made by Sadiq Momin
 
   ## Screenshots
 
@@ -37,11 +37,11 @@
 
   ## Questions?
 
-  Contact me at 
+  You Can contact me at 
 
-  Email: sammy.cullinan@gmail.com
+  Email: sadiqmomin2009@gmail.com
 
-  GitHub: https://github.com/cullinans1
+  GitHub: https://github.com/sadiqmomin
 
   ## License
 
@@ -50,7 +50,7 @@
   
   #### MIT License
 
-      Copyright (c) 2020 cullinans1
+      Copyright (c) 2022 Sadiq
 
       Permission is hereby granted, free of charge, to any person obtaining a copy
       of this software and associated documentation files (the "Software"), to deal
